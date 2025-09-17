@@ -1,0 +1,5 @@
+# Ignore all files without an extension
+[!.]*
+
+# But keep files with extensions (like .c, .h, .cpp, etc.)
+!*.*
